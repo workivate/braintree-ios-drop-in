@@ -1,6 +1,6 @@
 #import "BTPaymentMethodNonce+DropIn.h"
 
-#ifdef COCOAPODS
+#if 0
 #import <Braintree/BTCardNonce.h>
 #import <Braintree/BTPayPalAccountNonce.h>
 #import <Braintree/BTConfiguration+PayPal.h>

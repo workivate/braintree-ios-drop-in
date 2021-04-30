@@ -1,7 +1,7 @@
 #import <BraintreeDropIn/BTDropInRequest.h>
 #import "BTConfiguration+DropIn.h"
 
-#ifdef COCOAPODS
+#if 0
 #import <Braintree/BraintreeCore.h>
 #else
 #import <BraintreeCore/BraintreeCore.h>

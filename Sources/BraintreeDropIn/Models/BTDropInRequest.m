@@ -1,5 +1,5 @@
 #import <BraintreeDropIn/BTDropInRequest.h>
-#ifdef COCOAPODS
+#if 0
 #import <Braintree/BTPostalAddress.h>
 #else
 #import <BraintreeCore/BTPostalAddress.h>

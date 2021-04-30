@@ -1,6 +1,6 @@
 #import <BraintreeDropIn/BTDropInUICustomization.h>
 
-#ifdef COCOAPODS
+#if 0
 #import <Braintree/BTPostalAddress.h>
 #import <Braintree/BTPayPalRequest.h>
 #import <Braintree/BTVenmoRequest.h>

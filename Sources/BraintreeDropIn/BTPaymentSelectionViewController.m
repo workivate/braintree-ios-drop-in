@@ -10,7 +10,7 @@
 #import "BTConfiguration+DropIn.h"
 #import "BTPaymentMethodNonce+DropIn.h"
 
-#ifdef COCOAPODS
+#if 0
 #import <Braintree/BraintreeCard.h>
 #import <Braintree/BraintreePayPal.h>
 #import <Braintree/BraintreeVenmo.h>

@@ -5,7 +5,7 @@
 #import "BTUIKVectorArtView.h"
 #import "BTUIKPaymentOptionCardView.h"
 
-#ifdef COCOAPODS
+#if 0
 #import <Braintree/BraintreeCore.h>
 #else
 #import <BraintreeCore/BraintreeCore.h>

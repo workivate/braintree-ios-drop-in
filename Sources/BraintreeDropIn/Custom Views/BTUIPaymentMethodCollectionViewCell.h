@@ -1,6 +1,6 @@
 #import <UIKit/UIKit.h>
 
-#ifdef COCOAPODS
+#if 0
 #import <Braintree/BTPaymentMethodNonce.h>
 #else
 #import <BraintreeCore/BTPaymentMethodNonce.h>

@@ -12,7 +12,7 @@
 #import "BTUIKViewUtil.h"
 #import "BTDropInLocalization_Internal.h"
 
-#ifdef COCOAPODS
+#if 0
 #import <Braintree/BraintreeCard.h>
 #import <Braintree/BraintreeCore.h>
 #import <Braintree/BraintreePaymentFlow.h>
